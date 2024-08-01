@@ -3,7 +3,7 @@
         {
             "name": "ep8266",
             "includePath": [
-                "D:\\AppData\\Esp8266\\home\\orlan\\esp\\ESP8266_RTOS_SDK\\**",
+                "D:\\AppData\\Esp8266\\opt\\ESP8266_RTOS_SDK\\**",
                 "D:\\AppData\\Esp8266\\usr\\lib\\**",
                 "D:\\AppData\\Esp8266\\usr\\include\\**"
             ],
