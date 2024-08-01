@@ -30,3 +30,6 @@ ${PWD} .
         hello_world_main.c
 
 ```
+## Prog mode ESP-01
+
+GPIO0 -> Reset -> Reset -> GPIO0

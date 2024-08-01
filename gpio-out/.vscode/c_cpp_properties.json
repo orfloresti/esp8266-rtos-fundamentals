@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "ep8266",
+            "includePath": [
+                "D:/AppData/Esp8266/opt/ESP8266_RTOS_SDK/**",
+                "D:/AppData/Esp8266/usr/lib/**",
+                "D:/AppData/Esp8266/usr/include/**"
+            ],
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:/AppData/Esp8266/usr/bin/gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++11"
+        }
+    ],
+    "version": 4
+}

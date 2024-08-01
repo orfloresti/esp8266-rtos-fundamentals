@@ -5,7 +5,8 @@
             "includePath": [
                 "D:\\AppData\\Esp8266\\opt\\ESP8266_RTOS_SDK\\**",
                 "D:\\AppData\\Esp8266\\usr\\lib\\**",
-                "D:\\AppData\\Esp8266\\usr\\include\\**"
+                "D:\\AppData\\Esp8266\\usr\\include\\**",
+                "D:/AppData/Esp8266/opt/ESP8266_RTOS_SDK/components/freertos/port/esp8266/include"
             ],
             "intelliSenseMode": "windows-gcc-x64",
             "compilerPath": "D:\\AppData\\Esp8266\\usr\\bin\\gcc.exe",
