@@ -3,12 +3,14 @@
         {
             "name": "ep8266",
             "includePath": [
-                "${IDF_PATH}/**"
+                "D:\\AppData\\Esp8266\\home\\orlan\\esp\\ESP8266_RTOS_SDK\\**",
+                "D:\\AppData\\Esp8266\\usr\\lib\\**",
+                "D:\\AppData\\Esp8266\\usr\\include\\**"
             ],
-            "intelliSenseMode": "linux-gcc-x64",
-            "compilerPath": "/usr/bin/gcc",
-            "cStandard": "c17",
-            "cppStandard": "gnu++17"
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPath": "D:\\AppData\\Esp8266\\usr\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "gnu++11"
         }
     ],
     "version": 4
